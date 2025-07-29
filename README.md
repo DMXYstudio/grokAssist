@@ -1,5 +1,8 @@
 # grokAssist
 
+[🇬🇧 English](README.md) | [🇨🇳 中文](README.zh.md)
+
+
 grokAssist is a simple Android WebView wrapper for [Grok](https://grok.com/), providing a lightweight way to access the Grok AI chat interface on Android devices, including those without Google Mobile Services (GMS). This app is built by adapting the open-source code from [gptAssist](https://github.com/woheller69/gptAssist), and we extend our gratitude to the original author for their foundational work.
 
 ## Features
