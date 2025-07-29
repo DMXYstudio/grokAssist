@@ -1,5 +1,7 @@
 # grokAssist 简介
 
+[🇬🇧 English](README.md) | [🇨🇳 中文](README.zh.md)
+
 **grokAssist** 是一个简单的 Android WebView 封装应用，用于访问 [Grok](https://grok.com/) 的 AI 聊天界面。它为包括没有 Google 移动服务（GMS）的 Android 设备提供了轻量级访问方式。本项目基于开源项目 [gptAssist](https://github.com/woheller69/gptAssist) 修改而来，特此感谢原作者为本项目打下的基础。
 
 ## 功能特色
